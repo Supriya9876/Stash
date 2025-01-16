@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 h1 batch2
+=======
+welcome
+>>>>>>> Stashed changes is done
+
